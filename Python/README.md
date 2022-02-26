@@ -61,7 +61,8 @@ str = "Hello"
 
 ### If.. Else 
 
-* Is it possible to control the flow of the program? For example you are logging into a system if you have entered correct username and password you should be able to access the account or you must be notified that username or password is wrong. Situation like this we use if... else
+
+Is it possible to control the flow of the program? For example you are logging into a system if you have entered correct username and password you should be able to access the account or you must be notified that username or password is wrong. Situation like this we use if... else
 
 
 Given below is the syntax of if..else in python
@@ -87,7 +88,7 @@ Have you wondered to perform repeated action in program? For example, Spotify pl
 
 There are two loops in python
 
-* For Loop
+### For Loop
 
 ``` 
 for var in iterable:
@@ -95,20 +96,20 @@ for var in iterable:
 
 ```
 
-Read more about for loop [here](https://www.geeksforgeeks.org/python-for-loops/?ref=lbp)
+* Read more about for loop [here](https://www.geeksforgeeks.org/python-for-loops/?ref=lbp)
 	
 
-* While Loop
+### While Loop
 
 ```
 while expression:
     statement(s)
 ```
 
-Read more about for loop [here](https://www.geeksforgeeks.org/python-while-loop/?ref=lbp)
+* Read more about for loop [here](https://www.geeksforgeeks.org/python-while-loop/?ref=lbp)
 
-Is Spotify playing same track repeatedely is inifite loop? Is it possible?
+* Is Spotify playing same track repeatedely is inifite loop? Is it possible?
 
-Try to print multiplication table using both loops
+* Try to print multiplication table using both loops
 
-Can we both loop use in all situation?[here](https://betterprogramming.pub/how-to-pick-between-a-while-and-for-loop-14ef217c3776?gi=9845f2c9dd0)
+* Can we both loop use in all situation?[here](https://betterprogramming.pub/how-to-pick-between-a-while-and-for-loop-14ef217c3776?gi=9845f2c9dd0)
