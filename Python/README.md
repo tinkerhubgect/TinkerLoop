@@ -24,6 +24,17 @@
 2. Follow the installation in instruction as mentioned [here](https://www.tutorialspoint.com/python/python_environment.htm)
 
 
+## Project
+
+Get Live Weather Desktop Notifications Using Python.
+	
+	
+### Modules Needed 
+* bs4: Beautiful Soup(bs4) is a Python library for pulling data out of HTML and XML files
+* win10toast: This library helps in creating desktop notifications.
+* requests: This library allows you to send HTTP/1.1 requests extremely easily
+
+
 ## Python Basics (Syllabus)
 
 
