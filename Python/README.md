@@ -34,6 +34,13 @@ Get Live Weather Desktop Notifications Using Python.
 * win10toast: This library helps in creating desktop notifications.
 * requests: This library allows you to send HTTP/1.1 requests extremely easily
 
+### How To Submit:
+
+1) Fork the repo [this](https://github.com/tinkerhubgect/TinkerLoop)
+2) Clone the forked repo (https://github.com/<your_github_username>/TinkerLoop)
+3) Create your project inside the folder python with the github username (for example /python/abhin123/)
+4) Push the project to github
+5) Open a pull request
 
 ## Python Basics (Syllabus)
 
